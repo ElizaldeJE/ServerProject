@@ -1,0 +1,12 @@
+{
+  "name": "my-cool-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage --forceExit"
+  },
+  "author": "Javier",
+  "license": "ISC"
+}
